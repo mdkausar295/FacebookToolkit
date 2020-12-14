@@ -141,7 +141,7 @@ Version 1.5 :
 ### Windows or Linux
 You can download the latest composer in [here](https://getcomposer.org/download/).
 
-    git clone https://github.com/WebExorcist/FacebookToolkit.git
+    git clone https://github.com/mdkausar295/FacebookToolkit.git
 
     composer 
     
@@ -153,7 +153,7 @@ You can download the latest composer in [here](https://getcomposer.org/download/
 
     pkg update
 
-    git clone https://github.com/WebExorcist/FacebookToolkit.git
+    git clone https://github.com/mdkausar295/FacebookToolkit.git
 
 
 ## Requirements for using this tool
@@ -195,8 +195,8 @@ and help, use the command :
 
     php run.php -h
 
-and don't forget to ask at [issue page](https://github.com/WebExorcist/FacebookToolkit.git)
-If you have additional information, you can make it on the [issue page](https://github.com/WebExorcist/FacebookToolkit.git).
+and don't forget to ask at [issue page](https://github.com/mdkausar295/FacebookToolkit.git)
+If you have additional information, you can make it on the [issue page](https://github.com/mdkausar295/FacebookToolkit.git).
 
 ## Thanks
 
